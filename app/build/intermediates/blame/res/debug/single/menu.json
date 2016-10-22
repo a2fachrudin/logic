@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fachrudin/AndroidStudioProjects/Logic/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/fachrudin/AndroidStudioProjects/Logic/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/fachrudin/AndroidStudioProjects/Coding/app/src/main/res/menu/menu_main.xml"
+    }
+]

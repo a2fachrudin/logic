@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fachrudin/AndroidStudioProjects/Logic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/fachrudin/AndroidStudioProjects/Logic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/fachrudin/AndroidStudioProjects/Coding/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

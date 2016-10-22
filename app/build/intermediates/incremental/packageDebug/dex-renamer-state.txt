@@ -1,0 +1,7 @@
+#Wed Oct 19 21:32:16 WIB 2016
+base.0=/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b19a5d5019decd69fc4d11406a8e67352409a03
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c5c85defeb536fade09d4131dbfa06ce637b603/classes.dex
+base.1=/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c5c85defeb536fade09d4131dbfa06ce637b603
+file.0=/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b19a5d5019decd69fc4d11406a8e67352409a03/classes.dex

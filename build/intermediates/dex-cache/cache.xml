@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fa6460e5cfa5d2e03e79417c58548249e51f0bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_48e081708ab43c2e45a923f03bc8167e3a2529d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ac9d623fbb827e059759acc9072168033517af38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dc5f93877a6d16767ef2140eb280b97bde245750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e83d35f9e337c7c7e982d6e39bbfa66befa011da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a18644a4d086fbd49d8d1ce7ee7a596a8215327d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_000de15e4604b8a3e205d8a009d7f6c0e7f2f610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_299f7545a26e28fc0125b960532307a4141cfa9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_dbaabf6e10ccfa9272d6ccdf21ebc2591f3207c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d062913a303f2b848cc42234648b4f12602c4f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9f9ed58bc247c711ccacd7a3c9bcfcc2d3dba621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9156fe9b32eb9af7198bf991c9db408da2fe9bf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e449d4dbf28036a3f581dbc86b1a57de962ad390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85895b05f5a1777496ad947365269245e2f3e417">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c5c85defeb536fade09d4131dbfa06ce637b603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2624696fa21044399436f52779dd888f7b2d6197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9da8785ec2e8e126de216187c621a9df8ee9de4d">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b19a5d5019decd69fc4d11406a8e67352409a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fachrudin/AndroidStudioProjects/Coding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_93d79cebc4b372c803ba07830acea2903ec20095/classes.dex" />
+    </item>
+
+</items>
