@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fachrudin.myapplication.MainActivity">
+    <item
+        android:id="@+id/factorial"
+        android:orderInCategory="100"
+        android:title="@string/action_factorial"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fibonacci"
+        android:orderInCategory="100"
+        android:title="@string/action_fibonacci"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fizzbuzz"
+        android:orderInCategory="100"
+        android:title="@string/action_fizzbuzz"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reversechar"
+        android:orderInCategory="100"
+        android:title="@string/action_reversechar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sandpaper"
+        android:orderInCategory="100"
+        android:title="@string/action_sandpaper"
+        app:showAsAction="never" />
+</menu>

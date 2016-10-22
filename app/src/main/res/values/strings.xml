@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coding</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_factorial">Factorial</string>
+    <string name="action_fibonacci">Fibonacci</string>
+    <string name="action_fizzbuzz">Fizzbuzz</string>
+    <string name="action_reversechar">ReverseChar</string>
+    <string name="action_sandpaper">SandPaper</string>
+</resources>
